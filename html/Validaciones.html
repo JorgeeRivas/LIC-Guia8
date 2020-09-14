@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+ <meta charset="utf-8" />
+ <title>Filtrar entradas de teclado</title>
+ <link rel="stylesheet" href="../css/main.css"/>
+ <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700" />
+ <link rel="stylesheet" href="../css/style.css">
+ <script src="../js/validaciones.js"></script>
+</head>
+<body>
+<header>
+</header>
+<section>
+<article>
+<div class="container">
+<form action="#" name="contact" id="contact">
+<fieldset class="register-group">
+ <input type="text" name="nombre" id="nombre" placeholder="Nombre" />
+ <span id="txterror"></span>
+ <fieldset>
+    <input placeholder="Ingrese un correo valido" type="email" id="email" tabindex="2">
+  </fieldset>
+ <label>
+ Comentarios:
+ <textarea name="comentarios" id="comentarios" placeholder="Escribe aqui tu mensaje..."></textarea>
+ <span id="txt"></span>
+ </label>
+</fieldset>
+<p class="warnings" id="warnings"></p>
+<input class="btn btn-default" type="submit" name="submit" value="Guardar"/>
+</form>
+</div>
+</article>
+</section>
+</body>
+</html>

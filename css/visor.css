@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Reem+Kufi');  
+*{
+  font-family: 'Reem Kufi', sans-serif;
+}  
+
+
+.body {
+    background-color: #043353;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-color: #F26583;
+     
+    }
+    
+    h1 {
+      font-size: 30px;
+      text-align: center;
+      font-weight: bold;
+      margin-left: auto;
+      margin-right: auto;
+      width: 10em;
+      color: #FAF8F0;
+    }
+    
+    h3 {
+    
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    padding-left: 55px;
+    font-weight: bold;
+    color: #FAF8F0;
+    }
+  
+    p {
+      font-size: 18px;
+      
+    }
+    
+    img {
+    height: 500px;
+     
+    }
+    
+     .photo {
+      background-color: #E44652;
+      width: 450px;
+      border-color: #F26583;
+      border-width: .5px;
+      border-style: solid;
+      border-radius: 10px;
+      padding-left: 50px;
+      padding-top: 20px;
+    }
+    
+    .center-image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .img-caption {
+      font-size: 11px;
+      width: 600px;
+    }
+   
+    .text-primary {
+    color: #FAF8F0;
+    
+    }
+    
+    .space {
+      height: 100px;
+    }
+    
+ 
+    
+    .timeline {
+      width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+   
+    
+     .less-space {
+      height: 20px;
+    }
+    li {
+    
+    }
+   
